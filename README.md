@@ -1,5 +1,3 @@
-# ## Hi there, I'm FT17 👋
-
 ### 🚀 Aerospace & Mechanical Engineering Student
 I am currently majoring in **Aerospace and Mechanical Engineering** at **Korea Aerospace University (KAU)**. My primary interests lie in aircraft design, aeroacoustic noise prediction, and the automation of engineering analysis workflows.
 
