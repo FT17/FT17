@@ -36,5 +36,3 @@ I am currently majoring in **Aerospace and Mechanical Engineering** at **Korea A
 ### 💬 Contact
 * **Location**: South Korea 🇰🇷
 * **Affiliation**: Korea Aerospace University (KAU) ✈️
-
-> "The engine is the heart of an airplane, but the pilot is its soul. I build the tools that make both better."
