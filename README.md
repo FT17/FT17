@@ -1,15 +1,15 @@
 # ## Hi there, I'm FT17 👋
 
 ### 🚀 Aerospace & Mechanical Engineering Student
-현재 **한국항공대학교(KAU)**에서 항공우주 및 기계공학을 전공하며, 비행체 설계와 소음 예측 및 해석 자동화에 깊은 관심을 가지고 있습니다.
+I am currently majoring in **Aerospace and Mechanical Engineering** at **Korea Aerospace University (KAU)**. My primary interests lie in aircraft design, aeroacoustic noise prediction, and the automation of engineering analysis workflows.
 
 ---
 
 ### 🔍 Focus Areas
-* **Aeroacoustics**: UAM 및 드론의 로터 소음 예측 (FWH Equation, BPM Model 활용)
-* **Flight Dynamics**: BWB(Blended Wing Body) 기체의 안정성 해석 및 AVL 데이터 처리
-* **MDO (Multidisciplinary Design Optimization)**: DLR RCE를 활용한 해석 워크플로우 통합 및 자동화
-* **Scientific Computing**: Python(NumPy, SciPy) 및 MATLAB을 이용한 공학 수치 해석
+* **Aeroacoustics**: Rotor noise prediction for UAM and UAVs using **FWH (Ffowcs Williams-Hawkings) Equation** and **BPM (Brooks, Pope, and Marcolini) Model**.
+* **Flight Dynamics**: Stability analysis and AVL (Athena Vortex Lattice) data processing for **BWB (Blended Wing Body)** configurations.
+* **MDO (Multidisciplinary Design Optimization)**: Integration and automation of engineering workflows using **DLR RCE (Remote Component Environment)**.
+* **Scientific Computing**: Numerical analysis and engineering simulations using **Python (NumPy, SciPy)** and **MATLAB**.
 
 ---
 
@@ -21,9 +21,9 @@
 ---
 
 ### 🌱 I’m currently learning...
-* **Auralization**: 비행체 소음의 물리적 해석을 넘어선 청감화 및 사이코어쿠스틱 분석
-* **Code Optimization**: Nuitka 등을 활용한 파이썬 스크립트의 빌드 및 성능 최적화
-* **Advanced CFD/CAA**: 더욱 정밀한 유동 및 소음 해석 기법 탐구
+* **Auralization**: Exploring the synthesis of aircraft noise for **psychoacoustic analysis**, moving beyond purely physical interpretation.
+* **Code Optimization**: Researching high-performance builds and deployment of Python scripts using **Nuitka**.
+* **Advanced CFD/CAA**: Investigating high-fidelity techniques for computational fluid dynamics and aeroacoustics.
 
 ---
 
@@ -35,6 +35,6 @@
 
 ### 💬 Contact
 * **Location**: South Korea 🇰🇷
-* **University**: Korea Aerospace University (KAU) ✈️
+* **Affiliation**: Korea Aerospace University (KAU) ✈️
 
-"The engine is the heart of an airplane, but the pilot is its soul. I build the tools that make both better."
+> "The engine is the heart of an airplane, but the pilot is its soul. I build the tools that make both better."
